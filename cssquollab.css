@@ -1,0 +1,56 @@
+.title {
+    font-size: 64px;
+    color:black;
+    text-align:center;
+    margin-top: 2.5%;
+
+}
+.edu{
+    font-size:20px;
+    color:black;
+    text-align:left;
+    background-color: darkcyan;
+}
+.skills{
+    font-size:20px;
+    color:black;
+    text-align:left;
+    background-color: rgb(180, 243, 243);
+}
+.subhead{
+    font-family:fantasy;
+    font-size:32px;
+    color:darkblue;
+    text-align:left;
+    margin-top:1%;
+    margin-left:4%;
+}
+.hii {
+    font-family:fantasy;
+    font-size:25px;
+    color:black;
+    text-align:left;
+    margin-left:4%;
+    margin-right:4
+}
+.subhii{
+    font-size:20px;
+    color:black;
+    text-align:left;
+    margin-left:4%;
+}
+.helloworld {
+    font-size: 32px;
+    color:chartreuse;
+    text-align: center; 
+}
+
+#save{
+    font-size: 32px;
+    background-color: cyan;
+    border:1px solid rgb(74, 22, 194);
+    border-radius: 130000px;
+}
+img {
+    width: 100px;
+}
